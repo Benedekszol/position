@@ -1,2 +1,2 @@
 # position
-Ismétlés (pozition,flex-box,z-index,animation
+Ismétlés (pozition,flex-box,z-index,animation)
